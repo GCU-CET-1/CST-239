@@ -8,6 +8,7 @@ Complete the assigned work in the repositories listed below. Check the course sc
 
 >[!IMPORTANT]
 _The repositories below are effective for courses that started on or after Nov 2, 2026_
+
 | Repository | Topics | Effective version |
 |---|---|---|
 | [CST-239 Java Networking Labs](https://github.com/GCU-CET/CST-239-Java-Networking-Labs) | Clients and servers, sockets, protocols, and network communication | Fall 2026 |
@@ -16,6 +17,7 @@ _The repositories below are effective for courses that started on or after Nov 2
 
 >[!IMPORTANT]
 _The repositories below are effective for courses that started before Nov 2, 2026_
+
 | Repository | Topics | Effective version |
 |---|---|---|
 | [CST-239 Java Networking Labs](https://github.com/GCU-CET/CST-239-Java-Networking-Labs) | Clients and servers, sockets, protocols, and network communication | Fall 2026 |
